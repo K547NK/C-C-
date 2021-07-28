@@ -1,2 +1,2 @@
-# C-C-
-for people who are Ceeing things
+# C/C++
+For the people who C things
