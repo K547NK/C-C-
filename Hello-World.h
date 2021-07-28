@@ -1,4 +1,6 @@
-int maint() {
-  printf("Hello, World! \n")
+#include <stdio.h>
+int maint()
+{
+  printf("Hello, World! \n");
   return 0;
-}...
+}
