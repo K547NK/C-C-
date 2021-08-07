@@ -5,6 +5,6 @@ int main()
     printf("Please enter your name: ");
     scanf("%d", &userName);
     printf("Hello! %d", userName);
-    getchar();
+    ///getchar();
     return 0;
 }
