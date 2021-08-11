@@ -10,3 +10,8 @@ Lets see how far this goes, Cheers!
 ### Update Aug 07 21
     1. Learning how to create a simple login form for super secret terminal proggies
     2. This is very new and I don't know a lot of shit so we are going to figure it out later
+ 
+### Update Aug 11 21
+    1. Testing binaries placed in bin ~/CThings/bin/ folder.
+    2. Having a hard time figuring out how to output strings assigned to varaiables in the terminal...
+    3. Cooking up new simple projects while updating older ones.
