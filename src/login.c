@@ -5,15 +5,14 @@
 #include <stdio.h>
 int main()
 {
- int userName, passWord;
+ int user, pass;
     printf(" Welcome to AUB please enter you login credentials\n");
     printf("Email: ");
-    scanf("%d", &userName );
+    scanf("%d", &user );
     printf("Password: ");
-    scanf("%d", passWord);
+    scanf("%d",&pass );
     getchar();
     printf("Thank You!");
     return 0;
     }
-
 
