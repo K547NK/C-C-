@@ -3,16 +3,12 @@
 // to prevent reading input from a probable security flaw    			   \\
  
 #include <stdio.h>
+#include <string.h>
 int main()
 {
  int user, pass;
     printf(" Welcome to AUB please enter you login credentials\n");
-    printf("Email: ");
-    scanf("%d", &user );
-    printf("Password: ");
-    scanf("%d",&pass );
-    getchar();
-    printf("Thank You!");
+    printf("Email: ", "Password: ");
+    scanf(%d, &user, &pass);
     return 0;
     }
-
