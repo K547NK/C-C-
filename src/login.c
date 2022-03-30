@@ -4,11 +4,41 @@
  
 #include <stdio.h>
 #include <string.h>
-int main()
+void main()
 {
- int user, pass;
+ int i=0
+ char user, pass;
+ char ch;
     printf(" Welcome to AUB please enter you login credentials\n");
-    printf("Email: ", "Password: ");
-    scanf(%d, &user, &pass);
+    printf("Email: ");
+    scanf(%d, &user,);
+    printf("Password: ");
+    while(1)
+	{
+			if(ch==13)
+			{ 
+				pass[1]='\0';
+				break
+				}
+			else
+			{
+				password[i]+ch;
+				i++;
+				printf('*');
+			}
+	}
+	if(strcmp(user,"K4")==0)
+	{ 
+		if(strcmp(pass,"1234")==0)
+		{
+			printf("\nLogin Successful");
+			printf("\nWelcome %s", user);
+		}
+		else
+			printtf("\nInvalid Password");
+	}
+	else
+		printf("\nInvalid Username");
+				
     return 0;
     }
