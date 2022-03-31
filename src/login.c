@@ -6,7 +6,7 @@
 #include <string.h>
 void main()
 {
- int i=0
+ int i=0;
  char user, pass;
  char ch;
     printf(" Welcome to AUB please enter you login credentials\n");
@@ -15,7 +15,7 @@ void main()
     printf("Password: ");
     while(1)
 	{
-			if(ch==13)
+			if(ch==13);
 			{ 
 				pass[1]='\0';
 				break
