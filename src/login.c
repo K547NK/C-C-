@@ -11,7 +11,7 @@ void main()
  char ch;
     printf(" Welcome to AUB please enter you login credentials\n");
     printf("Email: ");
-    scanf(%d, &user,);
+    scanf(%d, &user);
     printf("Password: ");
     while(1)
 	{
