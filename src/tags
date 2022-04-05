@@ -1,1 +1,3 @@
+Mhello	hello.c	/^int main()$/
 Mlogin	login.c	/^void main()$/
+maint	Hello-World.c	/^int maint()$/
