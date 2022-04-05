@@ -22,5 +22,5 @@ Lets see how far this goes, Cheers!
 
 ### Update Apr 5 22
     1. Code rewrite done
-    >> void main() from src/login.c got changed to
-    >> int main()
+    > void main() from src/login.c got changed to\
+    > int main()
