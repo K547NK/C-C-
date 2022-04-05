@@ -20,4 +20,7 @@ Lets see how far this goes, Cheers!
     1. Reviewed syntax errors in code
     2. Considering rewriting the entire code
 
-
+### Update Apr 5 22
+    1. Code rewrite done
+    >> void main() from src/login.c got changed to
+    >> int main()
