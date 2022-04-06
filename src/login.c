@@ -4,7 +4,7 @@
  
 #include <stdio.h>
 #include <string.h>
-void main()
+int main()
 {
  int i=0;
  char user, pass;
