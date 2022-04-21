@@ -20,3 +20,4 @@ Lets see how far this goes, Cheers!
         - int main()
 #### Update 06-Apr-22
     1. Grasped basic pointers, next is password encryption
+    2. Struct is quite an interesting tool
